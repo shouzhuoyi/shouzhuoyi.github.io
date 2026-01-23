@@ -1,4 +1,4 @@
-#import "../config.typ": template, tufted
+#import "/config.typ": template, tufted
 #show: template
 
 // 侧边栏：放置头像和一句话简介

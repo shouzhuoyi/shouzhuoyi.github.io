@@ -1,4 +1,4 @@
-#import "../../config.typ": template, tufted
+#import "/config.typ": template, tufted
 #show: template.with(title: "易守拙 (Yi Shouzhuo) - CV")
 
 = 易守拙 (Yi Shouzhuo)

@@ -50,7 +50,7 @@ from typing import List, Optional, Set
 # ============================================================================
 
 CONTENT_DIR = Path("content")  # 源文件目录
-SITE_DIR = Path("_site")  # 输出目录
+SITE_DIR = Path("../")  # 输出目录
 ASSETS_DIR = Path("assets")  # 静态资源目录
 CONFIG_FILE = Path("config.typ")  # 全局配置文件
 
