@@ -65,7 +65,7 @@ Achieved full-link automation from text-to-video production, incorporating visua
 
 A high-performance, real-time audio visualization tool built with *egui* and *cpal*. It provides live monitoring of sound fields, waveforms, spectrums, and LUFS/loudness, designed to match the functionality of MiniMeter.
 
-#link("https://shouzhuoyi.github.io/pages/rust-minimeter/rust-minimeter.html")[View Project →]
+#link("https://shouzhuoyi.github.io/Projects")[View Project →]
 
 #line(length: 100%, stroke: 0.5pt + gray)
 == 📄 CV & More
