@@ -13,15 +13,7 @@
     )
   },
 )
-#let html-grid(columns: "1fr 1fr", gutter: "1em", ..cells) = {
-  html.elem(
-    "div",
-    attrs: (
-      style: "display: grid; grid-template-columns: #columns; gap: #gutter;",
-    ),
-    cells.pos().map(it => html.elem("div", it)).join(),
-  )
-}
+
 #let tufted-web(
   header-links: none,
   title: "Tufted",

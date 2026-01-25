@@ -1,4 +1,5 @@
 // TODO: figures and figures with captions inside margin notes
+
 #let margin-note(content) = {
   html.span(class: "marginnote", content)
 }
