@@ -16,7 +16,7 @@
 
 = 易守拙 - Shouzhuo Yi
 #hr()
-I am an undergraduate student at the **School of Computer Science, Wuhan University (2024 - Now)**.
+I am an undergraduate student at the *School of Computer Science, Wuhan University (2024 - Now)*.
 
 I am dedicated to developing CLIP-based multimodal Source-Free Domain Adaptation (SFDA) and Weakly Supervised Learning methods.
 #line(length: 100%, stroke: 0.5pt + gray)
@@ -68,9 +68,10 @@ A high-performance, real-time audio visualization tool built with *egui* and *cp
 #link("https://shouzhuoyi.github.io/Projects")[View Project →]
 
 #line(length: 100%, stroke: 0.5pt + gray)
+
 == 📄 CV & More
 #hr()
-- #link("https://github.com/shouzhuoyi.github.io/CV")[我的简历 (Resume)]
+- #link("https://github.com/shouzhuoyi.github.io/CV")[CV]
 - #link("https://github.com/shouzhuoyi")[GitHub Profile]
 
 == 📬 Contact

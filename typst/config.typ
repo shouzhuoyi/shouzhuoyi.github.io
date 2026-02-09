@@ -1,7 +1,6 @@
 #import "tufted-lib/tufted.typ" as tufted-lib
 #let tufted = tufted-lib
 #let html-grid = tufted.html-grid
-
 #let today = datetime.today()
 #let year = today.year()
 #let template = tufted.tufted-web.with(
@@ -12,7 +11,9 @@
     "/": "Home",
     "/CV/": "CV",
     "/Projects/": "Projects",
+    "/Memoir/": "Memoir",
     "/More../": "More..",
+    
   ),
   lang: "zh",
   title: "Shouzhuo Yi", // 你的网站在浏览器中显示的标题
