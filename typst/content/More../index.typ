@@ -10,7 +10,7 @@ _青いバラノイア 向かい合うだけだ_
 - Typst & Rust
 - Music & Art
 - Photography
-- AI
+- AI ss
 
 == Music I've made
 // #tufted.margin-note[
