@@ -36,7 +36,7 @@
   js-scripts: (
     "/assets/code-blocks.js",
     "/assets/format-headings.js",
-    "/assets/theme-toggle.js",
+    "/assets/theme-toggle.js","/assets/contributions.js"
   ),
   header-elements: (),
   footer-elements: (),

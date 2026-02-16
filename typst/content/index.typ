@@ -48,7 +48,21 @@ Achieved full-link automation from text-to-video production, incorporating visua
 
 #line(length: 100%, stroke: 0.5pt + gray)
 
+#metadata((
+  tag: "div",
+  attributes: (class: "contribution-graph"),
+  children: (
+    (tag: "h3", children: ("📊 Contribution Activity",)),
+    (tag: "div", attributes: (id: "heatmap", class: "heatmap"), children: ())
+  )
+)) <contribution-graph>
 
+// 加载 JS 脚本
+#metadata((
+  tag: "script",
+  attributes: (src: "/assets/contributions.js"),
+  children: ()
+)) <contribution-script>
 === Rust-Minimeter
 #tufted.margin-note[
   #box(fill: silver.lighten(50%), inset: 5pt, radius: 3pt)[
@@ -84,4 +98,3 @@ A high-performance, real-time audio visualization tool built with *egui* and *cp
 #v(2em)
 #line(length: 100%, stroke: 0.5pt + gray)
 #set text(size: 0.8em, fill: gray)
-
