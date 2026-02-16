@@ -12,8 +12,8 @@
     "/CV/": "CV",
     "/Projects/": "Projects",
     "/Memoir/": "Memoir",
-    "/More../": "More..",
-    
+    "/o1/": "o1",
+
   ),
   lang: "zh",
   title: "Shouzhuo Yi", // 你的网站在浏览器中显示的标题
